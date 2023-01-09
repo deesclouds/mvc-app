@@ -1,4 +1,4 @@
-# ToDo List App 
+# MVC CRUD App
 - has a MVC structure
 organizer our server side code.
 
