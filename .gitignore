@@ -1,0 +1,4 @@
+# hides all our secrets
+.env
+# hides this because it holds a lot of data
+node_modules/
